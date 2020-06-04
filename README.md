@@ -1,10 +1,10 @@
-# ![alt text](https://assets.breatheco.de/apis/img/images.php?blob&random&cat=icon&tags=breathecode,32) Contact Managment Application 
+# Contact Managment Application 
 
 Technologies: HTML, CSS, JS, React, React Router and Flux.
 
 Hello! It is time to start doing professional front-end applications. This time
 we will be creating a small contact management application that allows users to:
-Create, Update, Delete and Read contacts. [Check it out here!](https://projects.breatheco.de/json?slug=contact-list&preview)
+Create, Update, Delete and Read contacts. [Check it out here!](https://github.com/breatheco-de/exercise-contact-list/blob/master/preview.gif?raw=true)
 
 ***Please use the Flux architecture for this:*** The Flux architecture is one of the most used proposal for web application architetures.
 
@@ -33,17 +33,9 @@ Modal component for that.
 
 ## Steps to install this project
 
-##### 1. Clone the repository
-```
-$ git clone https://github.com/breatheco-de/exercise-contact-list.git
-```
-##### 2. Install the /node_modules
-```
-$ npm install
-```
-##### 3. Run the webpack development server
-```
-$ npm run c9
-```
+1. Clone this repository
+2. Install the dependencies using `$ npm install`
+3. Run the project `$ npm run start`
 
-That is it! Start coding your ReactJS+Flux application.
+
+That is it! Start coding your ReactJS + Flux application.
