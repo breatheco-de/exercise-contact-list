@@ -4,7 +4,7 @@ Tecnologías: HTML, CSS, JS, React, React Router and Flux.
 
 ¡Hola! Es hora de empezar a hacer aplicaciones frontales profesionales. Esta vez
 Crearemos una pequeña aplicación de gestión de contactos que permitirá a los usuarios:
-Crear, actualizar, eliminar y leer contactos. [Compruébalo aquí!](https://projects.breatheco.de/json?slug=contact-list&preview)
+Crear, actualizar, eliminar y leer contactos. [Compruébalo aquí!](https://github.com/breatheco-de/exercise-contact-list/blob/master/preview.gif?raw=true)
 
 ***Utiliza la arquitectura de Flux para esto:*** La arquitectura de Flux es una de las propuestas más utilizadas para las arquitecturas de aplicaciones web..
 
@@ -34,17 +34,8 @@ Componente modal para eso.
 
 ## Pasos para instalar este proyecto
 
-##### 1. Clona el repository
-```
-$ git clone https://github.com/breatheco-de/exercise-contact-list.git
-```
-##### 2. Instala el /node_modules
-```
-$ npm install
-```
-##### 3. Ejecutar el servidor de desarrollo webpack.
-```
-$ npm run c9
-```
+1. Clona este repositorio.
+2. Installa las dependencias del projecto `$ npm install`.
+3. Empieza el servidor de desarrollo `$ npm run start`.
 
 ¡Eso es! Comience a codificar su aplicación ReactJS + Flux.
