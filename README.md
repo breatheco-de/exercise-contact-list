@@ -8,11 +8,20 @@ Create, Update, Delete and Read contacts. [Check it out here!](https://github.co
 
 ***Please use the Flux architecture for this:*** The Flux architecture is one of the most used proposal for web application architetures.
 
-### How to start?
+## 🌱  How to start this project
 
-Clone the repository with the boilerplate, it contains no real functionalities 
-but it has 99.99% of the HTML/CSS that you'll need for the project, 
-allowing you to focus on the functionality.
+Do not clone this repository. Use this boilerplate instead, it contains no real functionalities but it has 99.99% of the HTML/CSS that you'll need for the project, allowing you to focus on the functionality.
+
+The first step to start coding is cloning the [react flux boilerplate](https://github.com/4GeeksAcademy/react-hello-webapp) on your local computer or gitpod.
+
+a) If using Gitpod (recommended) you can clone the boilerplate by [clicking here](https://github.com/4GeeksAcademy/react-hello-webapp).
+
+b) If working locally type the following command from your command line: 
+```sh
+$ git clone https://github.com/4GeeksAcademy/react-hello-webapp.
+```
+
+💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
 ### The project is divided in: 
 
