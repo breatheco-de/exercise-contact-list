@@ -8,11 +8,22 @@ Crear, actualizar, eliminar y leer contactos. [Compruébalo aquí!](https://gith
 
 ***Utiliza la arquitectura de Flux para esto:*** La arquitectura de Flux es una de las propuestas más utilizadas para las arquitecturas de aplicaciones web..
 
-### ¿Como empezar?
+## 🌱  Cómo iniciar este proyecto
 
-Clona el repositorio con el boilerplate, no contiene funcionalidades reales
-pero tiene 99.99% del HTML / CSS que necesitarás para el proyecto,
-Te permite centrarte en la funcionalidad.
+Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
+
+a) Abrir este link con Gitpod (recomendada) en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-contact-list.git
+
+b) Clonar este repositorio localmente en tu computador:
+```sh
+$ git clone https://github.com/breatheco-de/exercise-contact-list.git
+```
+2. Instala las dependencias del projecto `$ npm install`.
+
+3. Empieza el servidor de desarrollo `$ npm run start`.
+
+💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
+
 
 ### El proyecto se divide en:
 
@@ -32,10 +43,7 @@ y eliminar contactos de la lista.
 - (Opcional, pero es un punto a favor) Pídale al usuario la confirmación antes de borrar, use la
 Componente modal para eso.
 
-## Pasos para instalar este proyecto
 
-1. Clona este repositorio.
-2. Installa las dependencias del projecto `$ npm install`.
-3. Empieza el servidor de desarrollo `$ npm run start`.
+
 
 ¡Eso es! Comience a codificar su aplicación ReactJS + Flux.
