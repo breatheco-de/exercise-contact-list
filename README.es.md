@@ -12,7 +12,8 @@ Crear, actualizar, eliminar y leer contactos. [Compruébalo aquí!](https://gith
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-contact-list.git
+a) Abrir este link con Gitpod (recomendada) en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-contact-list.git
+
 b) Clonar este repositorio localmente en tu computador:
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-contact-list.git
