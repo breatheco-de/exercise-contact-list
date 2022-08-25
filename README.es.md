@@ -3,12 +3,12 @@
 Tecnologías: HTML, CSS, JS, React, React Router and Flux.
 
 ¡Hola! Es hora de empezar a hacer aplicaciones frontales profesionales. Esta vez
-Crearemos una pequeña aplicación de gestión de contactos que permitirá a los usuarios:
+crearemos una pequeña aplicación de gestión de contactos que permitirá a los usuarios:
 Crear, actualizar, eliminar y leer contactos. [Compruébalo aquí!](https://github.com/breatheco-de/exercise-contact-list/blob/master/preview.gif?raw=true)
 
 ***Utiliza la arquitectura de Flux para esto:*** La arquitectura de Flux es una de las propuestas más utilizadas para las arquitecturas de aplicaciones web..
 
-## 🌱  Cómo iniciar este proyecto
+## 🌱  ¿Cómo iniciar este proyecto?
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
