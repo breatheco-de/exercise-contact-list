@@ -47,5 +47,7 @@
 		{ "seconds": "2518", "description": "Deleting a contact (view+action+store)" },
 		{ "seconds": "3055", "description": "Editing a contact (view+action+store)" },
 		{ "seconds": "4576", "description": "Final summary" }
-	]
+	],
+    "autoPlay": false,
+    "projectType": "project"
 }
