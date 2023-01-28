@@ -1,4 +1,6 @@
+<!--hide-->
 # Contact Managment Application 
+<!--endhide-->
 
 Technologies: HTML, CSS, JS, React, React Router and Flux.
 
