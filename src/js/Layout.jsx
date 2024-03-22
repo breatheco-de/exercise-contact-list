@@ -1,26 +1,25 @@
-import React from 'react';
-import Flux from "@4geeksacademy/react-flux-dash";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Contacts from "./views/Contacts.jsx";
 import AddContact from "./views/AddContact.jsx";
+import injectContext from "./store/appContext.jsx";
 
-export default class Layout extends Flux.View {
-    render() {
-        return (
-            <div>
-                <BrowserRouter>
-                    <div>
-                        <Switch>
-                            <Route exact path="/index.html" component={Contacts} />
-                            <Route exact path="/" component={Contacts} />
-                            <Route exact path="/contacts" component={Contacts} />
-                            <Route exact path="/add" component={AddContact} />
-                            <Route exact path="/edit" component={AddContact} />
-                            <Route render={() => <h1 className="notfound">Not found!</h1>} />
-                        </Switch>
-                    </div>
-                </BrowserRouter>
-            </div>
-        );
-    }
+const Layout = () => {
+
+	return (
+		<div>
+			<BrowserRouter>
+				<div>
+					<Routes>
+						{/* <Route exact path="/index.html" component={Contacts} /> */}
+						<Route exact path="/" element={<Contacts/>} />
+						<Route exact path="/contacts" element={<Contacts/>} />
+						<Route exact path="/add" element={<AddContact/>} />
+						<Route exact path="/edit" element={<AddContact/>} />
+						<Route render={() => <h1 className="notfound">Not found!</h1>} />
+					</Routes>
+				</div>
+			</BrowserRouter>
+		</div>
+	);
 }
+export default injectContext(Layout);

@@ -1,52 +1,33 @@
-<!--hide-->
-# Contact Managment Application 
-<!--endhide-->
+# WebApp boilerplate with React JS
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io#https://github.com/4GeeksAcademy/react-hello-webapp.git)
 
-Technologies: HTML, CSS, JS, React, React Router and Flux.
+<p align="center">
+<a href="https://www.loom.com/share/f37c6838b3f1496c95111e515e83dd9b"><img src="https://github.com/4GeeksAcademy/react-hello-webapp/blob/master/src/img/how-to.png?raw=true" /></a>
+</p>
 
-Hello! It is time to start doing professional front-end applications. This time
-we will be creating a small contact management application that allows users to:
-Create, Update, Delete and Read contacts. [Check it out here!](https://github.com/breatheco-de/exercise-contact-list/blob/master/preview.gif?raw=true)
 
-***Please use the Flux architecture for this:*** The Flux architecture is one of the most used proposal for web application architetures.
+### Requirements:
+- Make sure you are using node version 10
 
-## 🌱  How to start this project
+1. Install the packages:
+```
+$ npm install
+```
+2. Create a .env file:
+```
+$ cp .env.example .env
+```
+3. Start coding! and the webpack dev server with live reload, for windows, mac, linux or Gitpod:
 
-1. This project comes with the necessary files to start working, but you have two options to start:
-
-a) Open this link in your browser to clone it with gitpod (recommended): https://gitpod.io#https://github.com/breatheco-de/exercise-contact-list.git
-
-b) You can clone this repository on your local computer:
-```sh
-$ git clone https://github.com/breatheco-de/exercise-contact-list.git
+```bash
+$ npm run start
 ```
 
-2. Install the dependencies using `$ npm install`
+### Styles
+You can update the `styles/index.css` or create new `.css` files inside `styles/` and import them into your current scss or js files depending on your needs.
 
-3. Run the project `$ npm run start`
-
-💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
-
-
-### The project is divided in: 
-
-#### Two different views: 
-
-1. Contact: Contains the list of contacts.
-2. AddContact: It's just a form that you can use to create or update contatcs.
-
-#### There is one additional component:
-ContactCard: Ideal component to display just one contact.
-
-## Expected functionalities
-
-- You have to add the code needed to make your application create, edit, 
-and delete contacts from the list.
-- (Optional but is a plus) Ask the user for confirmation before deleting, use the 
-Modal component for that.
+### Components
+Add more files into your `./src/js/components` or styles folder as you need them and import them into your current files as needed.
 
 
 
-
-
-That is it! Start coding your ReactJS + Flux application.

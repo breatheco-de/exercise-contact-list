@@ -1,5 +1,4 @@
 import React from 'react';
-import {withRouter} from 'react-router-dom';
 import PropTypes from 'prop-types';
 
 class Modal extends React.Component{
@@ -57,4 +56,4 @@ Modal.defaultProps = {
   show: false,
   onClose: null
 };
-export default withRouter(Modal);
+export default Modal;
