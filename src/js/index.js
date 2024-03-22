@@ -3,9 +3,9 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import PropTypes from 'prop-types';
 
-//include jquery into the bundle and store its contents into the $ variable
-import $ from "jquery";
+
 //include bootstrap npm library into the bundle
+import 'bootstrap/dist/css/bootstrap.css';
 import 'bootstrap';
 import './icons.js';
 
