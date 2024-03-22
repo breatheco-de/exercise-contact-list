@@ -10,7 +10,7 @@ import 'bootstrap';
 import './icons.js';
 
 //include your index.scss file into the bundle
-import '../styles/index.scss';
+import '../styles/index.css';
 
 //import your own components
 import Layout from './Layout.jsx';
