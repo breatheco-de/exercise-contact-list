@@ -10,6 +10,8 @@ Create, Update, Delete and Read contacts. [Check it out here!](https://github.co
 
 ***Please use the Flux architecture for this:*** The Flux architecture is one of the most used proposal for web application architetures.
 
+<onlyfor saas="false" withBanner="false">
+  
 ## 🌱  How to start this project
 
 1. This project comes with the necessary files to start working, but you have two options to start:
@@ -27,6 +29,7 @@ $ git clone https://github.com/breatheco-de/exercise-contact-list.git
 
 💡 Important: Remember to create a new repository, update the remote (`git remote set-url origin <your new url>`), and upload the code to your new repository using `add`, `commit` and `push`.
 
+</onlyfor>
 
 ### The project is divided in: 
 
