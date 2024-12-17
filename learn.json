@@ -9,6 +9,7 @@
 	"solution": "https://bitbucket.org/codingacademy/contact-list",
 	"preview": "https://github.com/breatheco-de/exercise-contact-list/blob/master/preview.gif?raw=true",
 	"duration" : 24,
+	"template_url": "self",
 	"description" : "Create a simple contact list application using the React.js framework and Flux Architecture",
 	"talents": [
 		{ "badge": "tag-master", "points": 10 },

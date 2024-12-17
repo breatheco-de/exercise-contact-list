@@ -10,22 +10,29 @@ Crear, actualizar, eliminar y leer contactos. [Compruébalo aquí!](https://gith
 
 ***Utiliza la arquitectura de Flux para esto:*** La arquitectura de Flux es una de las propuestas más utilizadas para las arquitecturas de aplicaciones web..
 
+<onlyfor saas="false" withBanner="false">
+
 ## 🌱  Cómo iniciar este proyecto
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-a) Abrir este link con Gitpod (recomendada) en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-contact-list.git
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://github.com/codespaces/new/?repo=breatheco-de/exercise-css-drawing-goku
 
 b) Clonar este repositorio localmente en tu computador:
+
 ```sh
 $ git clone https://github.com/breatheco-de/exercise-contact-list.git
 ```
-2. Instala las dependencias del projecto `$ npm install`.
 
-3. Empieza el servidor de desarrollo `$ npm run start`.
+### Pasos
+
+1. Instala las dependencias del projecto `$ npm install`.
+
+2. Empieza el servidor de desarrollo `$ npm run start`.
 
 💡 Importante: Recuerda actualizar el `remote` del proyecto con el de tu repositorio usando `git remote set-url origin <your new url>`, y luego guardar tu código en tu nuevo repositorio usando `add`, `commit` y `push`.
 
+</onlyfor>
 
 ### El proyecto se divide en:
 
