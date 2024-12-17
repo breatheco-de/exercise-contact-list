@@ -16,9 +16,7 @@ Crear, actualizar, eliminar y leer contactos. [Compruébalo aquí!](https://gith
 
 Este proyecto viene con los archivos necesarios para empezar a trabajar, pero tienes dos opciones para empezar:
 
-Abrir este enlace con [Codespaces](https://4geeks.com/lesson/what-is-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/lesson/how-to-use-gitpod) en tu navegador: https://github.com/codespaces/new/?repo=breatheco-de/exercise-css-drawing-goku
-
-a) Abrir este link con Gitpod (recomendada) en tu navegador: https://gitpod.io#https://github.com/breatheco-de/exercise-contact-list.git
+a) Abrir este enlace con [Codespaces](https://4geeks.com/es/lesson/tutorial-de-github-codespaces) (recomendado) o [Gitpod](https://4geeks.com/es/lesson/como-utilizar-gitpod) en tu navegador: https://github.com/codespaces/new/?repo=breatheco-de/exercise-css-drawing-goku
 
 b) Clonar este repositorio localmente en tu computador:
 
