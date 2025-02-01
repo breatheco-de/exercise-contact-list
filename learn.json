@@ -7,7 +7,7 @@
 	"status": "published",
 	"translations": ["es", "us"],
 	"difficulty": "intermediate",
-	"technologies": ["react.js", "react router"],
+	"technologies": ["react.js", "react router", "HTML", "CSS", "JS"],
 	"syntax": "react.js",
 	"solution": "https://bitbucket.org/codingacademy/contact-list",
 	"preview": "https://github.com/breatheco-de/exercise-contact-list/blob/master/preview.gif?raw=true",
